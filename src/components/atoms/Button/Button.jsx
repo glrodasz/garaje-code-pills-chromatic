@@ -10,6 +10,7 @@ function Button({ children, primary, isBlock }) {
 Button.propTypes = {
   children: PropTypes.node.isRequired,
   primary: PropTypes.bool,
+  isBlock: PropTypes.bool,
 };
 
 Button.defaultProps = {

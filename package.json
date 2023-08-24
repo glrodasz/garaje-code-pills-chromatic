@@ -27,6 +27,7 @@
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react": "^4.0.3",
+    "chromatic": "^6.24.0",
     "eslint": "^8.45.0",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
@@ -35,5 +36,10 @@
     "prop-types": "^15.8.1",
     "storybook": "^7.3.2",
     "vite": "^4.4.5"
-  }
+  },
+  "resolutions": {
+    "jackspeak": "2.1.1"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "garaje-code-pills-chromatic@0.0.0"
 }

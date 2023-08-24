@@ -1,0 +1,1 @@
+.card{background:rgba(255,255,255,.1);padding:20px;border-radius:15px;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);box-shadow:0 4px 6px #0000001a;transition:box-shadow .3s;display:flex;flex-direction:column;max-width:500px}.card:hover{box-shadow:0 6px 10px #00000026}.card-buttons{display:flex;justify-content:space-between;align-items:center}

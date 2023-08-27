@@ -1,8 +1,10 @@
-# React + Vite
+## Visual Testing con Chromatic
+Este proyecto hace parte del siguiente video: <link>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Lista de mis otros Garaje Code Pills
+https://youtube.com/playlist?list=PLKBvDYynKmlWPWyoTOizls8nui87vlBXg
 
-Currently, two official plugins are available:
+## Sobre Garaje de Ideas
+Garaje de Ideas es un estudio de Diseño, Tecnología y Data. En este canal encontrarás tutoriales, cursos y ejemplos prácticos paso a paso de desarrollo web y programación. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Podrás encontrar desde cursos de JavaScript, Node.js, D3.js, Vue3, Typescript, HTML, CSS, React... hasta cómo optimizar tu proceso de trabajo.

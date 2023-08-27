@@ -9,7 +9,7 @@ const preview = {
       },
     },
     backgrounds: {
-      default: "Gradient",
+      default: "Black",
       values: [
         {
           name: "Black",

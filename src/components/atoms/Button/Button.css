@@ -8,7 +8,7 @@
 	transition: background 0.3s, transform 0.3s;
 	cursor: pointer;
 	text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
-	text-transform: uppercase;
+	text-transform: lowercase;
 }
 
 .button-primary {

@@ -1,5 +1,5 @@
-## Visual Testing con Chromatic
-Este proyecto hace parte del siguiente video: <link>
+## Visual Testing con Storybook Chromatic | Automatiza tus UI tests
+Este proyecto hace parte del siguiente video: https://youtu.be/Ig8p7H3iMGo
 
 ## Lista de mis otros Garaje Code Pills
 https://youtube.com/playlist?list=PLKBvDYynKmlWPWyoTOizls8nui87vlBXg
